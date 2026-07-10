@@ -1,0 +1,22 @@
+{
+  "wheel_id": 113,
+  "slug": "loanphone-102",
+  "project": "business-equipment-finance-costs-l-102",
+  "parent_t1_ref": "loanphone-007",
+  "node_role": "feeder",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "business equipment finance costs",
+  "intended_url": "https://business-equipment-finance-costs-l-102.ondigitalocean.app/",
+  "links": [
+    {
+      "target_url": "https://business-equipment-finance-l-151.surge.sh/",
+      "anchor": "business equipment finance",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://business-equipment-finance-l-151.surge.sh/",
+      "anchor": "business equipment finance",
+      "rel": "follow"
+    }
+  ]
+}
