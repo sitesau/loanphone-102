@@ -1,21 +1,17 @@
 {
-  "wheel_id": 113,
+  "wheel_id": 114,
+  "structure": "umbrella",
   "slug": "loanphone-102",
-  "project": "business-equipment-finance-costs-l-102",
-  "parent_t1_ref": "loanphone-007",
+  "project": "agricultural-machinery-finance-costs-l-102",
+  "parent_t1_ref": "loanphone-008",
   "node_role": "feeder",
   "money_target": "loanphone.com.au",
-  "primary_kw": "business equipment finance costs",
-  "intended_url": "https://business-equipment-finance-costs-l-102.ondigitalocean.app/",
+  "primary_kw": "agricultural machinery finance costs",
+  "intended_url": "https://aumedia.neocities.org/agricultural-machinery-finance-costs-l-102/index.html",
   "links": [
     {
-      "target_url": "https://business-equipment-finance-l-151.surge.sh/",
-      "anchor": "business equipment finance",
-      "rel": "follow"
-    },
-    {
-      "target_url": "https://business-equipment-finance-l-151.surge.sh/",
-      "anchor": "business equipment finance",
+      "target_url": "https://agricultural-machinery-finance-l-151.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "agricultural machinery finance",
       "rel": "follow"
     }
   ]
